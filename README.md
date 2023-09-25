@@ -1,2 +1,2 @@
-# something
-something should not named
+# raft process
+version 1.0
